@@ -4,4 +4,4 @@ Crack segmentation network via triple-component dynamic graph channel attention 
 
 Once this article is accepted, data will be provided as requested.
 
-![Framework](results/compare_8model_3dataset.pdf)
+![Segment reults](results/compare_8model_3dataset.pdf)
